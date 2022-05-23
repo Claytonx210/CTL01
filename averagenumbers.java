@@ -1,5 +1,9 @@
 package interestcalculator;
-
+/*
+*
+*This is a modified file
+*for testing of case tools project
+*/
 public class averagenumbers 
 {
 	int num1,num2,num3,num4,num5;

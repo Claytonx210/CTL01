@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"interestcalculator","l":"averagenumbers"},{"p":"interestcalculator","l":"compoundinterest"},{"p":"interestcalculator","l":"interestcalculator"},{"p":"interestcalculator","l":"simpleinterest"}];updateSearchResults();
